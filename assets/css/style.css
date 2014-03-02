@@ -1,0 +1,63 @@
+#fname, #Lname, #email, #password, #confirm_pass{
+
+	z-index: 200px;
+	margin-left: 25px; 
+	margin-top: 20px;
+
+}
+
+#border{
+	margin-top: 20px;
+	width: 300px;
+	height: 300px;
+	background-color:gray;
+}
+
+#reg{
+	margin-left: 100px;
+	margin-top: 10px;
+}
+
+#logForm{
+	margin-top:50px;
+	background-color:gray;
+	background-size: 200px;
+	width: 300px;
+	height: 150px;
+}
+
+#loginbtn{
+	margin-left: 100px;
+	margin-top: 30px;
+
+}
+
+#logemail, #logpassword{
+	margin-top: 10px;
+	margin-left: 30px;
+}
+
+#admin{
+	margin-top:50px;
+	background-color:gray;
+	width: 300px;
+	height: 150px;
+	margin:auto;
+}
+
+#container {
+	padding: 12% 33%;
+}
+
+#addQuest {
+	float: right;
+	position: relative;
+}
+
+#viewQuest {
+	float: right;
+	position: relative;
+}
+#td{
+	background-color: gray;
+}
